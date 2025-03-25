@@ -28,7 +28,7 @@ const Footer = () => {
                     </a>
                 </div>
                 <div id="row1" className="row">
-                    © Developed By Velayutham S
+                    © Developed By Alexyesudass S
                 </div>
             </div>
             <div>

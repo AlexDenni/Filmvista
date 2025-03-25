@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Project
 =======
 
@@ -66,4 +66,3 @@ The Recommendations are made by computing similarity scores for movies using con
  ## References 
  1. TMDB's API : https://www.themoviedb.org/documentation/api
  2. Cosine Similarity : https://www.machinelearningplus.com/nlp/cosine-similarity/
->>>>>>> 7ac72cf (Initial commit)

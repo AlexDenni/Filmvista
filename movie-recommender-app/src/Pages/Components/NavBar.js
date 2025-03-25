@@ -1,11 +1,12 @@
 // NavBar Component
 import { Link } from "react-router-dom";
 import "./styles/NavBarStyles.css";
-import Logo from "./images/cine.png";
+import Logo from "./images/Film_Vista_logo.png";
+
 
 const NavBar = ({ isHome }) => {
     const gitRepoLink =
-        "velayutham1706";
+        "";
     return (
         <div className="container header">
             <Link to="/ ">
